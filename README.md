@@ -3,10 +3,15 @@ This was my final project for my grade 11 CS culminating. It was coded completel
 It is a remake of the online game "Tag": https://taggame.io/
 
 Main Idea: Two players chase each other across the map in an intense game of tag
-Setting: 2D map with platforms
-Objective: If you are "it" try to catch the other player, if you are not "it" run from the player who is it
-Winner: First player to avoid being "it" for 80 seconds
-Player 1 Controls: Jump(W), Left(A), Right(D)
+
+Setting: 2D map with platforms 
+
+Objective: If you are "it" try to catch the other player, if you are not "it" run from the player who is it 
+
+Winner: First player to avoid being "it" for 80 seconds 
+
+Player 1 Controls: Jump(W), Left(A), Right(D) 
+
 Player 2 Controls: Jump(Up Arrow), Left (Left Arrow), Right(Right Arrow)
 
 Features:
